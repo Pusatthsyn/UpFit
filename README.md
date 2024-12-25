@@ -1,3 +1,3 @@
 # upfit
 
-A new Flutter project.
+Upfit, fitness and health app.
