@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810823868813",
+    "project_id": "upfit-f23e3",
+    "storage_bucket": "upfit-f23e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810823868813:android:0c9f4caa08f02d24e69dc4",
+        "android_client_info": {
+          "package_name": "com.UpFit.tr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5suW-OTHvHSmgIvPBd_tDlCqxl4Pfc-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

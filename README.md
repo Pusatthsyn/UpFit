@@ -1,2 +1,3 @@
-# UpFit
-Sports and health application
+# upfit
+
+A new Flutter project.
